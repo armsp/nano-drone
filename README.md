@@ -1,11 +1,11 @@
-# Nano Long Range
+# Nano Drone
 This project takes its inspiration from daveC's original design and modifies it substantially for my own experiments. It was really fun to get it to fly with open source firmwares.
 
 # Firmwares
-[x] Betaflight
-[ ] Inav - need to test but should work
-[ ] Ardupilot
-[ ] Pixhawk
+[x] Betaflight  
+[ ] Inav - need to test but should work  
+[ ] Ardupilot  
+[ ] Pixhawk  
 
 ## Pixhawk
 The final goal is to get Pixhawk working on it - the reduced features version due to a STM32F405 MCU - and modify it for my needs.
@@ -26,10 +26,10 @@ Mission Planner / QGround Control
 ExpressLRS
 
 # Sensors
-[x] Range Finder
-[ ] Thermal Cam
-[x] Barometer
-[x] GPS
+[x] Range Finder  
+[ ] Thermal Cam  
+[x] Barometer  
+[x] GPS  
 
 
 # Video Link
